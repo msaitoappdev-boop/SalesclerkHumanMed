@@ -19,8 +19,8 @@ private val LightColorScheme = lightColorScheme(
     onPrimary = Color.White,
     onSecondary = Color.White,
     onTertiary = Color.Black,
-    onBackground = Color(0xFF1B5E20),
-    onSurface = Color(0xFF1B5E20),
+    onBackground = Color(0xFF001E3C),
+    onSurface = Color(0xFF001E3C),
 )
 
 private val DarkColorScheme = darkColorScheme(
@@ -38,8 +38,8 @@ private val DarkColorScheme = darkColorScheme(
 
 // アプリケーション用のセマンティックカラー定義（ライトモード用）
 private val LightAppColors = AppColors(
-    correctBorder = Color(0xFF2F855A),
-    correctBackground = Color(0xFFDFF5E1),
+    correctBorder = Color(0xFF005FB8),      // ブランドカラーのブルー
+    correctBackground = Color(0xFFE1F5FE),  // 非常に淡いブルー（以前のグリーンから刷新）
     wrongBorder = Color(0xFFC53030),
     wrongBackground = Color(0xFFFFE0E0),
     selectedBackground = Color(0xFFE5E5E5)
@@ -47,8 +47,8 @@ private val LightAppColors = AppColors(
 
 // アプリケーション用のセマンティックカラー定義（ダークモード用）
 private val DarkAppColors = AppColors(
-    correctBorder = Color(0xFF48BB78),
-    correctBackground = Color(0xFF1C4532),
+    correctBorder = Color(0xFF4FC3F7),      // 明るいスカイブルー
+    correctBackground = Color(0xFF002F56),  // 濃いネイビー（介護のグリーン #1C4532 から刷新）
     wrongBorder = Color(0xFFF56565),
     wrongBackground = Color(0xFF652B19),
     selectedBackground = Color(0xFF4A5568)
