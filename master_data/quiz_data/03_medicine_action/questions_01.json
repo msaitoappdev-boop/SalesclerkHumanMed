@@ -6,9 +6,11 @@
       "エテンザミド ― せきを鎮める",
       "クロルフェニラミンマレイン酸塩 ― くしゃみや鼻水を抑える",
       "グアイフェネシン ― 熱を下げる",
-      "ブロムヘキシン塩酸塩 ― 痛みを押さえる"
+      "ブロムヘキシン塩酸塩 ― 痛みを抑える"
     ],
     "correctIndex": 1,
+    "difficulty": "A",
+    "isEnabled": true,
     "explanation": "エテンザミドは解熱鎮痛成分、グアイフェネシンやブロムヘキシンは去痰成分です。クロルフェニラミンマレイン酸塩は抗ヒスタミン成分で、鼻水やくしゃみを抑えます。",
     "subject": "cold_remedies"
   },
@@ -22,6 +24,8 @@
       "サリチルアミドは、他の解熱成分と併用しても副作用が増大することはない。"
     ],
     "correctIndex": 1,
+    "difficulty": "A",
+    "isEnabled": true,
     "explanation": "アセトアミノフェンは抗炎症作用がほとんどないのが特徴です。アスピリンはライ症候群の恐れがあるため小児には原則避け、イブプロフェンは胃障害に注意が必要です。",
     "subject": "antipyretics_analgesics"
   },
@@ -35,6 +39,8 @@
       "エフェドリン塩酸塩"
     ],
     "correctIndex": 0,
+    "difficulty": "B",
+    "isEnabled": true,
     "explanation": "ジフェンヒドラミンは抗ヒスタミン薬ですが、副次的に現れる眠気を利用して、一時的な不眠の緩和（睡眠改善薬）として用いられます。他は興奮・覚醒作用を持ちます。",
     "subject": "hypnotics_sedatives"
   },
@@ -48,6 +54,8 @@
       "アンブロキソール塩酸塩は、咳中枢を直接麻痺させることでせきを止める。"
     ],
     "correctIndex": 3,
+    "difficulty": "B",
+    "isEnabled": true,
     "explanation": "アンブロキソールは去痰成分であり、痰の粘りを取ったり排出を助けたりするもので、咳中枢には作用しません。",
     "subject": "antitussives_expectorants"
   },
@@ -61,6 +69,8 @@
       "スクラルファート ― 制酸作用により胃酸を中和する"
     ],
     "correctIndex": 1,
+    "difficulty": "B",
+    "isEnabled": true,
     "explanation": "ロペラミドは止瀉薬（下痢止め）です。炭酸水素ナトリウムは制酸剤、スクラルファートは胃粘膜保護剤、酸化マグネシウムは制酸剤または下剤として用いられます。",
     "subject": "gastrointestinal_drugs"
   },
@@ -74,6 +84,8 @@
       "服用後、口の中で噛み砕くことで効果が早く現れる。"
     ],
     "correctIndex": 0,
+    "difficulty": "B",
+    "isEnabled": true,
     "explanation": "センソはシナヒキガエルの分泌物を集めたもので、非常に強力な強心作用を持ちます。噛むと舌が痺れるため、噛まずに服用する必要があります。",
     "subject": "cardiac_drugs"
   },
@@ -87,6 +99,8 @@
       "リボフラビン酪酸エステル"
     ],
     "correctIndex": 2,
+    "difficulty": "B",
+    "isEnabled": true,
     "explanation": "ソイステロールは大豆油から得られる成分で、コレステロールの吸収を抑える働きがあります。",
     "subject": "hyperlipidemia_drugs"
   },
@@ -94,13 +108,15 @@
     "id": "ma_008",
     "text": "貧血用薬（鉄剤）の服用に関する注意点として、正しいものはどれか。",
     "options": [
-      "服用前後30分は、タンニン酸を含む緑茶や紅茶の摂取を控えることが望ましい。",
+      "服用前後30分は、タンニン酸を含む緑茶や紅茶の摂取を控える。",
       "便が黒くなることがあるが、これは重大な副作用の兆候である。",
       "空腹時に服用すると、吸収は良くなるが胃腸障害が起きにくい。",
       "鉄分は蓄積されやすいため、症状が改善しても1年間は服用を続けるべきである。"
     ],
     "correctIndex": 0,
-    "explanation": "タンニン酸は鉄の吸収を妨げます（ただし最近は影響が少ないという説もありますが試験上は控えるのが定石）。便が黒くなるのは未吸収の鉄によるもので問題ありません。",
+    "difficulty": "A",
+    "isEnabled": true,
+    "explanation": "タンニン酸は鉄の吸収を妨げるため、服用前後の摂取を控える必要があります。便が黒くなるのは未吸収の鉄によるもので問題ありません。",
     "subject": "anemia_drugs"
   },
   {
@@ -113,6 +129,8 @@
       "ヒドロコルチゾン ― 細菌の感染を防ぐ（殺菌消毒）"
     ],
     "correctIndex": 3,
+    "difficulty": "B",
+    "isEnabled": true,
     "explanation": "ヒドロコルチゾンはステロイド性抗炎症成分であり、炎症を抑える働きをします。殺菌消毒成分ではありません。",
     "subject": "hemorrhoid_drugs"
   },
@@ -126,6 +144,8 @@
       "容器の先がまつ毛に触れても、薬液の汚染にはつながらない。"
     ],
     "correctIndex": 1,
+    "difficulty": "A",
+    "isEnabled": true,
     "explanation": "点眼後は目頭を押さえることで、薬液が鼻涙管を通って鼻へ流れるのを防ぎ、目への留まりを良くします。容器の先がまつ毛に触れるのは汚染の原因です。",
     "subject": "ophthalmic_drugs"
   },
@@ -139,6 +159,8 @@
       "リドカイン ― アレルギー反応を抑える（抗アレルギー）"
     ],
     "correctIndex": 0,
+    "difficulty": "A",
+    "isEnabled": true,
     "explanation": "ナファゾリンは血管収縮成分です。ケトチフェンやクロモグリク酸は抗アレルギー成分、リドカインは局所麻酔成分です。",
     "subject": "rhinitis_drugs"
   },
@@ -152,6 +174,8 @@
       "オキシドールは、組織への刺激が強く、深い傷口の洗浄に最適である。"
     ],
     "correctIndex": 1,
+    "difficulty": "B",
+    "isEnabled": true,
     "explanation": "イソプロピルメチルフェノールは多くの外用薬に配合される殺菌成分です。ポビドンヨードは銀と反応して変色・失活します。オキシドールは深い傷には向きません。",
     "subject": "dermatological_drugs"
   },
@@ -165,6 +189,8 @@
       "強力なステロイドを併用することで、白癬菌を直接死滅させることができる。"
     ],
     "correctIndex": 3,
+    "difficulty": "B",
+    "isEnabled": true,
     "explanation": "ステロイドは炎症を抑えますが、免疫を抑えるため水虫（菌の増殖）を悪化させる恐れがあります。白癬菌を殺すのは抗真菌薬です。",
     "subject": "dermatological_drugs"
   },
@@ -178,6 +204,8 @@
       "歯槽膿漏薬の服用中は、ブラッシングなどの口腔ケアは休止してよい。"
     ],
     "correctIndex": 1,
+    "difficulty": "B",
+    "isEnabled": true,
     "explanation": "外用薬は一時的な鎮痛や消毒が目的で、根本治療は歯科受診が必要です。セチルピリジニウムは殺菌成分です。銅クロロフィリンは粘膜修復や消臭が目的です。",
     "subject": "dental_drugs"
   },
@@ -191,6 +219,8 @@
       "ニコチンを摂取することで、タバコによる肺がんのリスクを直接高める。"
     ],
     "correctIndex": 2,
+    "difficulty": "A",
+    "isEnabled": true,
     "explanation": "ニコチン製剤は、非喫煙者が使うと中毒の恐れがあり、妊婦も胎児への影響から禁忌です。ガムはゆっくり噛む、パッチ使用中の喫煙はニコチン過剰摂取になるため厳禁です。",
     "subject": "smoking_cessation_aids"
   },
@@ -204,6 +234,8 @@
       "ビタミンD ― 出血傾向"
     ],
     "correctIndex": 2,
+    "difficulty": "A",
+    "isEnabled": true,
     "explanation": "ビタミンC欠乏は壊血病、B1欠乏は脚気、A欠乏は夜盲症、D欠乏は骨軟化症（くる病）などを引き起こします。",
     "subject": "vitamins"
   },
@@ -217,6 +249,8 @@
       "シャクヤク（芍薬） ― ボタンの樹皮"
     ],
     "correctIndex": 3,
+    "difficulty": "C",
+    "isEnabled": true,
     "explanation": "シャクヤクはシャクヤクの根です。ボタンの樹皮（根皮）はボタンピ（牡丹皮）と呼ばれます。",
     "subject": "herbal_medicines"
   },
@@ -230,6 +264,8 @@
       "効果を早く出すために、規定の2倍量を服用することが推奨される。"
     ],
     "correctIndex": 1,
+    "difficulty": "A",
+    "isEnabled": true,
     "explanation": "漢方薬も副作用はあります（間質性肺炎や偽アルドステロン症など）。個人の「証」に合わせることが重要です。生薬成分が西洋薬と重なることもあるため注意が必要です。",
     "subject": "chinese_herbal_medicine"
   },
@@ -243,6 +279,8 @@
       "逆性石鹸（ベンザルコニウム塩化物）は、普通の石鹸と混ぜると殺菌力が増す。"
     ],
     "correctIndex": 0,
+    "difficulty": "B",
+    "isEnabled": true,
     "explanation": "クレゾールは強力ですが、特有の臭気と刺激があります。次亜塩素酸ナトリウムは酸と混ぜると塩素ガスが発生し危険です。逆性石鹸は普通の石鹸と混ぜると効果がなくなります。",
     "subject": "disinfectants"
   },
@@ -256,6 +294,8 @@
       "妊娠検査薬で陽性が出た場合、正常な妊娠であることを保証するものである。"
     ],
     "correctIndex": 1,
+    "difficulty": "B",
+    "isEnabled": true,
     "explanation": "検査薬はあくまで「目安」であり、確定診断は医師が行います。食事などの影響で偽陽性・偽陰性が出ることがあります。妊娠検査薬の陽性は「要受診」の合図です。",
     "subject": "diagnostic_reagents"
   },
@@ -269,6 +309,8 @@
       "不眠"
     ],
     "correctIndex": 1,
+    "difficulty": "A",
+    "isEnabled": true,
     "explanation": "抗ヒスタミン成分は、中枢抑制作用による眠気や、抗コリン作用による口の渇き、便秘、排尿困難などの副作用が現れることがあります。",
     "subject": "cold_remedies"
   },
@@ -282,6 +324,8 @@
       "15歳未満の小児にも、どのような場合でも安全に使用できる。"
     ],
     "correctIndex": 0,
+    "difficulty": "B",
+    "isEnabled": true,
     "explanation": "エテンザミドは、アスピリンやカフェインと組み合わせて「ACE処方」としてよく用いられます。痛みの伝達を抑える働きがあります。",
     "subject": "antipyretics_analgesics"
   },
@@ -295,6 +339,8 @@
       "クロペラスチン塩酸塩"
     ],
     "correctIndex": 0,
+    "difficulty": "B",
+    "isEnabled": true,
     "explanation": "コデインやジヒドロコデインは麻薬性鎮咳成分と呼ばれ、依存性に注意が必要です。他は非麻薬性です。",
     "subject": "antitussives_expectorants"
   },
@@ -308,6 +354,8 @@
       "どのような時でも効果は変わらない"
     ],
     "correctIndex": 1,
+    "difficulty": "B",
+    "isEnabled": true,
     "explanation": "スクラルファートは、胃壁の荒れた部分に直接貼り付いて保護するため、食べ物の影響を受けにくい空腹時の服用が効果的です。",
     "subject": "gastrointestinal_drugs"
   },
@@ -321,6 +369,8 @@
       "長期連用すると、次第に効果が弱くなり、依存が生じることがある。"
     ],
     "correctIndex": 1,
+    "difficulty": "B",
+    "isEnabled": true,
     "explanation": "センナ等の大腸刺激性下剤は、子宮収縮を誘発する恐れがあるため、妊婦の使用には注意が必要です。",
     "subject": "gastrointestinal_drugs"
   },
@@ -334,6 +384,8 @@
       "殺菌作用により、喉の痛みを抑える。"
     ],
     "correctIndex": 2,
+    "difficulty": "C",
+    "isEnabled": true,
     "explanation": "竜脳は、中枢神経系を刺激して意識をはっきりさせる「気付け」の効果を目的として配合されます。",
     "subject": "cardiac_drugs"
   },
@@ -347,6 +399,8 @@
       "ビタミンK"
     ],
     "correctIndex": 1,
+    "difficulty": "B",
+    "isEnabled": true,
     "explanation": "パンテチンは、脂質代謝に関与し、HDL（善玉）を増やしたりLDL（悪玉）を減らしたりするのを助けます。",
     "subject": "hyperlipidemia_drugs"
   },
@@ -360,7 +414,9 @@
       "自律神経の乱れを整える。"
     ],
     "correctIndex": 0,
-    "explanation": "ユビデカレノンは細胞内でのエネルギー産生に関わり、心臓の働きをサポートします。軽度の心疾患による動悸等に用いられます。",
+    "difficulty": "B",
+    "isEnabled": true,
+    "explanation": "ユビデカレノンは細胞内でのエネルギー産生に関わり、心臓の働きをサポートします. 軽度の心疾患による動悸等に用いられます。",
     "subject": "cardiac_drugs"
   },
   {
@@ -373,6 +429,8 @@
       "心筋を刺激し、心収縮力を高める。"
     ],
     "correctIndex": 2,
+    "difficulty": "A",
+    "isEnabled": true,
     "explanation": "カフェインは胃酸の分泌を「促進」するため、胃が荒れやすい副作用があります。",
     "subject": "central_nervous_system_drugs"
   },
@@ -386,6 +444,8 @@
       "胃粘膜を直接麻痺させることで吐き気を止める。"
     ],
     "correctIndex": 1,
+    "difficulty": "B",
+    "isEnabled": true,
     "explanation": "スコポラミンは抗コリン成分であり、乗り物酔い防止に非常に有効ですが、肝臓で速やかに代謝されるため、持続時間は短めです。",
     "subject": "motion_sickness_drugs"
   },
@@ -399,6 +459,8 @@
       "感染症を直接治す。"
     ],
     "correctIndex": 1,
+    "difficulty": "B",
+    "isEnabled": true,
     "explanation": "五疳薬は、子供の神経過敏による夜泣きやイライラ（かん）、消化不良などに用いられる生薬製剤です。",
     "subject": "pediatric_drugs"
   },
@@ -412,6 +474,8 @@
       "低血糖"
     ],
     "correctIndex": 0,
+    "difficulty": "A",
+    "isEnabled": true,
     "explanation": "アドレナリン作動成分は交感神経を刺激するため、心臓に負担がかかったり血圧が上がったりすることがあります。高血圧や心臓病の人は注意が必要です。",
     "subject": "antitussives_expectorants"
   },
@@ -425,6 +489,8 @@
       "眠気を全く起こさないため、運転前の服用に最適である。"
     ],
     "correctIndex": 1,
+    "difficulty": "B",
+    "isEnabled": true,
     "explanation": "ロートエキスは抗コリン作用を持ち、乳腺の分泌を抑えてしまう可能性があるため、授乳中の人は避けるか授乳を中断する必要があります。",
     "subject": "gastrointestinal_drugs"
   },
@@ -438,7 +504,9 @@
       "ピコスルファートナトリウム"
     ],
     "correctIndex": 3,
-    "explanation": "ピコスルファートナトリウムは、腸を刺激して排便を促す「下剤」成分です。善玉菌ではありません。",
+    "difficulty": "A",
+    "isEnabled": true,
+    "explanation": "ピコスルファートナトリウムは、腸を刺激して排便を促す「下剤」成分です. 善玉菌ではありません。",
     "subject": "gastrointestinal_drugs"
   },
   {
@@ -451,6 +519,8 @@
       "家族に感染者がいても、症状がない人は服用してはいけない。"
     ],
     "correctIndex": 2,
+    "difficulty": "C",
+    "isEnabled": true,
     "explanation": "駆虫薬は、腸管内の虫に直接作用させるため、吸収を避けるべく空腹時の服用が基本です。また、家族全員で治療することが推奨されます。",
     "subject": "anthelmintics"
   },
@@ -464,6 +534,8 @@
       "眼球のサイズが大きくなる"
     ],
     "correctIndex": 1,
+    "difficulty": "B",
+    "isEnabled": true,
     "explanation": "血管収縮剤（ナファゾリン等）を含む点眼薬を連用すると、薬が切れた時にかえって血管が拡張し、充血がひどくなる「リバウンド」が起こることがあります。",
     "subject": "ophthalmic_drugs"
   },
@@ -477,6 +549,8 @@
       "傷口に直接塗ることで、傷の治りを早める効果がある。"
     ],
     "correctIndex": 0,
+    "difficulty": "B",
+    "isEnabled": true,
     "explanation": "強力な非ステロイド性抗炎症成分（NSAIDs）の外用薬は、小児への安全性が確立されていないため、年齢制限があります。また、アスピリン喘息を誘発する恐れもあります。",
     "subject": "dermatological_drugs"
   },
@@ -490,6 +564,8 @@
       "通常の切り傷"
     ],
     "correctIndex": 1,
+    "difficulty": "B",
+    "isEnabled": true,
     "explanation": "クロルヘキシジンは刺激が強く、粘膜や脳、脊髄、内耳などへの接触は避ける必要があります。",
     "subject": "disinfectants"
   },
@@ -503,6 +579,8 @@
       "夜間の視力を維持する。"
     ],
     "correctIndex": 2,
+    "difficulty": "B",
+    "isEnabled": true,
     "explanation": "ビタミンEは強い抗酸化作用を持ち、血行を良くする働きがあります。",
     "subject": "vitamins"
   },
@@ -516,6 +594,8 @@
       "聴覚の喪失"
     ],
     "correctIndex": 0,
+    "difficulty": "A",
+    "isEnabled": true,
     "explanation": "カンゾウに含まれるグリチルリチンを摂りすぎると、ナトリウムと水が体に溜まり、血圧が上がったりむくんだりする偽アルドステロン症が起こることがあります。",
     "subject": "herbal_medicines"
   },
@@ -529,6 +609,8 @@
       "高熱が出て、大量の汗をかいている時。"
     ],
     "correctIndex": 0,
+    "difficulty": "A",
+    "isEnabled": true,
     "explanation": "葛根湯は、風邪の初期で「実証（体力がある）」の人、かつ「無汗」の状態に適しています。",
     "subject": "chinese_herbal_medicine"
   },
@@ -542,6 +624,8 @@
       "ジフェンヒドラミン塩酸塩"
     ],
     "correctIndex": 3,
+    "difficulty": "B",
+    "isEnabled": true,
     "explanation": "ジフェンヒドラミンは「抗ヒスタミン成分」であり、痒みを抑えるために水虫薬に配合されることはありますが、菌を殺す成分ではありません。",
     "subject": "dermatological_drugs"
   },
@@ -555,6 +639,8 @@
       "視力の向上"
     ],
     "correctIndex": 0,
+    "difficulty": "B",
+    "isEnabled": true,
     "explanation": "ミノキシジルはもともと血圧を下げる薬として開発された経緯があり、外用でも心臓や血圧に影響を与える可能性があるため、高血圧や心臓病の人は注意が必要です。",
     "subject": "dermatological_drugs"
   },
@@ -568,6 +654,8 @@
       "骨を溶かしてカルシウムを補給する。"
     ],
     "correctIndex": 0,
+    "difficulty": "B",
+    "isEnabled": true,
     "explanation": "タウリンは、肝臓の働きを助けたり、筋肉の疲労を和らげたりする効果を期待してドリンク剤等によく配合されます。",
     "subject": "tonics_nutrients"
   },
@@ -581,6 +669,8 @@
       "お酒（アルコール）と一緒に飲むと、より自然な眠りが得られる。"
     ],
     "correctIndex": 1,
+    "difficulty": "A",
+    "isEnabled": true,
     "explanation": "一般用の睡眠改善薬は、あくまで「一時的な不眠」に対するものであり、慢性的な不眠（不眠症）の治療には向きません。15歳未満も使用不可です。",
     "subject": "hypnotics_sedatives"
   },
@@ -594,6 +684,8 @@
       "喉の粘膜をコーティングして保護する。"
     ],
     "correctIndex": 0,
+    "difficulty": "B",
+    "isEnabled": true,
     "explanation": "トラネキサム酸は抗プラスミン作用を持ち、炎症による腫れや痛みを抑える目的で配合されます。",
     "subject": "cold_remedies"
   },
@@ -603,10 +695,12 @@
     "options": [
       "透析を受けている人は、アルミニウム脳症等の恐れがあるため使用できない。",
       "血糖値を急激に上げるため、糖尿病の人は注意が必要である。",
-      "血圧を下げる効果が非常に強い。",
+      "血圧を下げる効果があるため、低血圧の人は服用できない。",
       "服用すると、尿が真っ赤になる。"
     ],
     "correctIndex": 0,
+    "difficulty": "C",
+    "isEnabled": true,
     "explanation": "アルミニウム成分は透析患者では排出されず、体内に蓄積して脳症等を起こす危険があるため禁忌となっています。",
     "subject": "gastrointestinal_drugs"
   },
@@ -620,6 +714,8 @@
       "傷口を焼いて塞ぐための薬である。"
     ],
     "correctIndex": 1,
+    "difficulty": "B",
+    "isEnabled": true,
     "explanation": "ヨウ素は甲状腺ホルモンの原料になるため、甲状腺疾患のある人は使用前に相談が必要です。",
     "subject": "disinfectants"
   },
@@ -633,6 +729,8 @@
       "寝つきが悪く、不安感が強い人。"
     ],
     "correctIndex": 0,
+    "difficulty": "B",
+    "isEnabled": true,
     "explanation": "防風通聖散は、肥満症や便秘などに用いられる漢方で、体力のある（実証の）人に適しています。",
     "subject": "chinese_herbal_medicine"
   },
@@ -646,7 +744,9 @@
       "衣服の上からスプレーしても、虫除け効果は全くない。"
     ],
     "correctIndex": 0,
-    "explanation": "ディートは代表的な虫除け成分です。ただし、小児に対しては年齢に応じた使用回数制限が設けられています。",
+    "difficulty": "B",
+    "isEnabled": true,
+    "explanation": "ディートは代表的な虫除け成分です. ただし、小児に対しては年齢に応じた使用回数制限が設けられています。",
     "subject": "insecticides"
   },
   {
@@ -659,6 +759,8 @@
       "コデインリン酸塩"
     ],
     "correctIndex": 0,
+    "difficulty": "B",
+    "isEnabled": true,
     "explanation": "胃酸を中和する制酸成分を配合することで、解熱鎮痛成分による胃粘膜への刺激を和らげることがあります。",
     "subject": "antipyretics_analgesics"
   },
@@ -672,6 +774,8 @@
       "ビタミンを補給する。"
     ],
     "correctIndex": 0,
+    "difficulty": "B",
+    "isEnabled": true,
     "explanation": "アズレン（水溶性アズレン）は、抗炎症作用とともに、荒れた組織の回復を助ける働きがあります。",
     "subject": "dental_drugs"
   },
@@ -685,6 +789,8 @@
       "急激に体重が減る。"
     ],
     "correctIndex": 0,
+    "difficulty": "A",
+    "isEnabled": true,
     "explanation": "ビタミンB2は黄色い色素を持つため、服用後に尿が黄色くなることがありますが、健康上の問題はありません。",
     "subject": "vitamins"
   },
@@ -698,6 +804,8 @@
       "骨折の治療。"
     ],
     "correctIndex": 0,
+    "difficulty": "B",
+    "isEnabled": true,
     "explanation": "婦人薬は、女性特有のホルモンバランスの乱れによる血の道症や更年期障害などの改善を目的とした生薬製剤です。",
     "subject": "women_drugs"
   },
@@ -711,6 +819,8 @@
       "温かいお茶を飲むこと"
     ],
     "correctIndex": 0,
+    "difficulty": "A",
+    "isEnabled": true,
     "explanation": "抗ヒスタミン薬は強い眠気を引き起こすことがあるため、運転等は法律や添付文書で禁止・制限されています。",
     "subject": "rhinitis_drugs"
   },
@@ -724,6 +834,8 @@
       "善玉菌を増やして腸内環境を変える。"
     ],
     "correctIndex": 1,
+    "difficulty": "B",
+    "isEnabled": true,
     "explanation": "酸化マグネシウムは、浸透圧を利用して腸内に水を引き寄せる下剤で、刺激が少なく、お腹が痛くなりにくいのが特徴です。",
     "subject": "gastrointestinal_drugs"
   },
@@ -737,6 +849,8 @@
       "不眠症。"
     ],
     "correctIndex": 0,
+    "difficulty": "B",
+    "isEnabled": true,
     "explanation": "芍薬甘草湯は、急激に起こる筋肉のけいれんや痛みを鎮める効果が非常に速やかであることで知られています。",
     "subject": "chinese_herbal_medicine"
   },
@@ -750,6 +864,8 @@
       "水に溶けやすく、雨が降るとすぐに効果がなくなる。"
     ],
     "correctIndex": 0,
+    "difficulty": "B",
+    "isEnabled": true,
     "explanation": "ピレスロイド系は蚊取り線香などにも使われる成分で、昆虫には猛毒ですが、哺乳類の体内では速やかに分解されるため、家庭用として広く使われています。",
     "subject": "insecticides"
   },
@@ -763,6 +879,8 @@
       "血糖値を上げる作用"
     ],
     "correctIndex": 0,
+    "difficulty": "B",
+    "isEnabled": true,
     "explanation": "大黄は代表的な瀉下（下剤）生薬で、多くの漢方便秘薬に配合されています。",
     "subject": "herbal_medicines"
   },
@@ -776,6 +894,8 @@
       "薬の値段が高すぎて、家計を圧迫するから。"
     ],
     "correctIndex": 1,
+    "difficulty": "B",
+    "isEnabled": true,
     "explanation": "ステロイドは強力な抗炎症作用がありますが、不適切な使用は副作用（皮膚が薄くなる、ニキビができる、免疫低下による感染症など）を招きます。特に顔などの皮膚が薄い部位は注意が必要です。",
     "subject": "dermatological_drugs"
   }

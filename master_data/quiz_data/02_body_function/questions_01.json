@@ -9,6 +9,8 @@
       "大腸では、主に栄養素の吸収が行われ、水分は吸収されない。"
     ],
     "correctIndex": 0,
+    "difficulty": "A",
+    "isEnabled": true,
     "explanation": "消化管は口腔から肛門までの一本の管で、成人の全長は約9mです。食道は飲食物を送るだけで消化機能はなく、胃のペプシンはタンパク質を分解し、大腸は主に水分の吸収を行います。",
     "subject": "body_structure"
   },
@@ -16,12 +18,14 @@
     "id": "bf_002",
     "text": "呼吸器系に関する記述のうち、正しいものはどれか。",
     "options": [
-      "喉頭は、咽頭と気管ের間にあり、発声器としての役割も持つ。",
+      "喉頭は、咽頭と気管の間にあり、発声器としての役割も持つ。",
       "肺自体には筋肉があるため、自力で膨らんだり縮んだりできる。",
       "肺胞において、二酸化炭素が血液に取り込まれ、酸素が排出される。",
       "気管支の末端にある肺胞は、ガス交換効率を下げるために表面積を小さくしている。"
     ],
     "correctIndex": 0,
+    "difficulty": "A",
+    "isEnabled": true,
     "explanation": "喉頭は発声や誤嚥防止の役割を担います。肺には筋肉がないため横隔膜などで呼吸を行い、肺胞では酸素を取り込み二酸化炭素を排出します。ガス交換効率を高めるため、肺胞は巨大な表面積を持っています。",
     "subject": "body_structure"
   },
@@ -35,6 +39,8 @@
       "肺動脈は、心臓から肺へ送られる血液が流れる血管であり、静脈血が流れている。"
     ],
     "correctIndex": 0,
+    "difficulty": "A",
+    "isEnabled": true,
     "explanation": "心臓の右側には、全身から戻ってきた二酸化炭素を多く含む「静脈血」が流れています。左側に「動脈血」が流れています。",
     "subject": "body_structure"
   },
@@ -48,6 +54,8 @@
       "男性の尿道は女性に比べて短いため、細菌が侵入しやすい。"
     ],
     "correctIndex": 0,
+    "difficulty": "A",
+    "isEnabled": true,
     "explanation": "腎臓は血液をろ過して尿を作ります。尿管は腎臓と膀胱をつなぐ管で、尿を体外へ出すのは尿道です。膀胱は伸縮性があり、女性の方が尿道が短いため膀胱炎になりやすいです。",
     "subject": "body_structure"
   },
@@ -61,6 +69,8 @@
       "インスリンを分泌して血糖値を調節する。"
     ],
     "correctIndex": 3,
+    "difficulty": "B",
+    "isEnabled": true,
     "explanation": "血糖値を調節するインスリンを分泌するのは「膵臓（ランゲルハンス島）」です。肝臓は代謝、解毒、胆汁生成、貯蔵などを担います。",
     "subject": "body_structure"
   },
@@ -74,6 +84,8 @@
       "水晶体が濁ることで、暗いところで見えにくくなる病気を夜盲症という。"
     ],
     "correctIndex": 1,
+    "difficulty": "A",
+    "isEnabled": true,
     "explanation": "網膜はカメラのフィルムのような役割をします。ピント調節をするのは水晶体、光の量を調節するのは虹彩です。水晶体が濁るのは白内障です。",
     "subject": "sensory_organs"
   },
@@ -87,6 +99,8 @@
       "蝸牛（かぎゅう）は、音を電気信号に変える役割を担う外耳の一部である。"
     ],
     "correctIndex": 1,
+    "difficulty": "B",
+    "isEnabled": true,
     "explanation": "内耳の前庭や三半規管は平衡感覚を担います。振動を増幅するのは耳小骨、耳管は中耳と鼻（咽頭）をつないで気圧を調整します。蝸牛は内耳にあります。",
     "subject": "sensory_organs"
   },
@@ -100,6 +114,8 @@
       "交感神経と副交感神経は、常にどちらか一方のみが働いている。"
     ],
     "correctIndex": 1,
+    "difficulty": "A",
+    "isEnabled": true,
     "explanation": "副交感神経は休息時に優位になり、心拍低下や瞳孔収縮をもたらします。交感神経は活動・緊張時に優位になります。自律神経は意識的には制御できません。",
     "subject": "nervous_system"
   },
@@ -113,6 +129,8 @@
       "医薬品の有効成分は、一度代謝されると必ず活性を失い、無毒化される。"
     ],
     "correctIndex": 3,
+    "difficulty": "B",
+    "isEnabled": true,
     "explanation": "代謝によって活性を持つ物質に変わる医薬品（プロドラッグ）もあります。また、代謝物が毒性を持つこともあります。",
     "subject": "pharmacokinetics"
   },
@@ -126,6 +144,8 @@
       "皮脂膜は、皮膚をアルカリ性に保つことで細菌の増殖を抑える。"
     ],
     "correctIndex": 0,
+    "difficulty": "A",
+    "isEnabled": true,
     "explanation": "皮膚は外側から表皮、真皮、皮下組織の3層です。メラニンは表皮の基底層で作られます。汗は気化熱で体温を下げ、皮脂膜は弱酸性に保ちます。",
     "subject": "body_structure"
   },
@@ -139,6 +159,8 @@
       "平滑筋は、心臓を構成する特殊な筋肉である。"
     ],
     "correctIndex": 2,
+    "difficulty": "A",
+    "isEnabled": true,
     "explanation": "骨格筋は随意筋です。骨はカルシウムの貯蔵庫でもあります。軟骨には神経や血管がほとんどありません。心臓を構成するのは心筋（不随意筋）です。",
     "subject": "body_structure"
   },
@@ -152,6 +174,8 @@
       "鼻汁は、異物を洗い流す役割があるが、殺菌作用はない。"
     ],
     "correctIndex": 3,
+    "difficulty": "B",
+    "isEnabled": true,
     "explanation": "鼻汁にはリゾチームなどの殺菌成分が含まれており、防御機能を担っています。",
     "subject": "sensory_organs"
   },
@@ -165,6 +189,8 @@
       "脳の血管には、特定の物質を通さない「血液脳関門」は存在しない。"
     ],
     "correctIndex": 0,
+    "difficulty": "A",
+    "isEnabled": true,
     "explanation": "延髄は生命維持に不可欠な中枢です。高度な精神活動は「大脳皮質」、脊髄は反射の中枢でもあります。脳には血液脳関門が存在します。",
     "subject": "nervous_system"
   },
@@ -178,6 +204,8 @@
       "軟膏剤は、皮膚から全身へ薬を浸透させることを主目的とする。"
     ],
     "correctIndex": 1,
+    "difficulty": "B",
+    "isEnabled": true,
     "explanation": "腸溶錠は胃刺激を避けたり腸で作用させるためのものです。カプセルの中身を出すのは不可。舌下錠は粘膜から直接吸収させます。軟膏は主に局所作用です。",
     "subject": "pharmacokinetics"
   },
@@ -191,6 +219,8 @@
       "医薬品の薬理作用が強すぎるために起こる、予測可能な反応である。"
     ],
     "correctIndex": 3,
+    "difficulty": "A",
+    "isEnabled": true,
     "explanation": "アナフィラキシーは免疫反応によるアレルギー反応であり、薬理作用による直接的な反応ではなく、予測が困難な場合が多いです。",
     "subject": "adverse_reactions"
   },
@@ -204,6 +234,8 @@
       "中毒性表皮壊死融解症（TEN）とは全く異なる病態である。"
     ],
     "correctIndex": 1,
+    "difficulty": "B",
+    "isEnabled": true,
     "explanation": "皮膚粘膜眼症候群は、高熱や粘膜症状を伴う重篤な副作用で、直ちに服用を中止し受診が必要です。TENはこれのさらに重症化した状態とされます。",
     "subject": "adverse_reactions"
   },
@@ -217,6 +249,8 @@
       "肝機能障害は、必ず服用開始後24時間以内に現れる。"
     ],
     "correctIndex": 0,
+    "difficulty": "B",
+    "isEnabled": true,
     "explanation": "肝機能障害は倦怠感や黄疸が主な兆候です。黄疸はビリルビンが蓄積し、眼や皮膚が黄色くなる状態です。発現時期は様々です。",
     "subject": "adverse_reactions"
   },
@@ -230,6 +264,8 @@
       "副腎皮質からアルドステロンが過剰に分泌されることで起こる。"
     ],
     "correctIndex": 3,
+    "difficulty": "B",
+    "isEnabled": true,
     "explanation": "「偽」アルドステロン症は、アルドステロンが実際に増えているわけではないのに、同じような症状が出る状態を指します。",
     "subject": "adverse_reactions"
   },
@@ -243,6 +279,8 @@
       "一度喘息発症を経験した成分でも、用量を減らせば安全に使用できる。"
     ],
     "correctIndex": 0,
+    "difficulty": "B",
+    "isEnabled": true,
     "explanation": "アスピリン喘息は服用後短時間で発症します。間質性肺炎はガス交換を妨げる重篤な状態です。既往がある成分は禁忌です。",
     "subject": "adverse_reactions"
   },
@@ -256,6 +294,8 @@
       "皮膚の触覚は、体のどの部位でも同じ感度である。"
     ],
     "correctIndex": 0,
+    "difficulty": "A",
+    "isEnabled": true,
     "explanation": "味覚は味蕾で受容されます。嗅覚は空気中の揮発性物質を感知します。耳垢には保護作用があり、触覚の感度は部位によって異なります（指先などは高い）。",
     "subject": "sensory_organs"
   },
@@ -269,6 +309,8 @@
       "唾液の分泌は、交感神経が優位な時に促進される。"
     ],
     "correctIndex": 2,
+    "difficulty": "A",
+    "isEnabled": true,
     "explanation": "アミラーゼはデンプン（炭水化物）を分解します。唾液には殺菌成分が含まれます。唾液分泌は副交感神経が優位な時に促進されます。",
     "subject": "body_structure"
   },
@@ -282,6 +324,8 @@
       "胃液の分泌は、視覚や嗅覚などの刺激によっても起こる。"
     ],
     "correctIndex": 2,
+    "difficulty": "B",
+    "isEnabled": true,
     "explanation": "飲食物が胃に留まる時間は、種類によりますが、通常数時間はかかります。脂肪分の多いものはより長く留まります。",
     "subject": "body_structure"
   },
@@ -295,6 +339,8 @@
       "小腸の長さは、成人で約1〜2m程度である。"
     ],
     "correctIndex": 0,
+    "difficulty": "A",
+    "isEnabled": true,
     "explanation": "小腸は十二指腸、空腸、回腸からなり、全長は約6〜7mです。絨毛は表面積を広げ、吸収効率を高めます。吸収の大部分は空腸・回腸で行われます。",
     "subject": "body_structure"
   },
@@ -308,6 +354,8 @@
       "膵液に含まれるトリプシンは、炭水化物を分解する。"
     ],
     "correctIndex": 1,
+    "difficulty": "B",
+    "isEnabled": true,
     "explanation": "膵液はアルカリ性で、胃液を中和し、炭水化物・脂質・タンパク質を分解する酵素を含みます。トリプシンはタンパク質分解酵素です。また、インスリン等のホルモンも分泌します。",
     "subject": "body_structure"
   },
@@ -321,6 +369,8 @@
       "胆汁に含まれるビリルビンは、赤血球が分解されてできた老廃物である。"
     ],
     "correctIndex": 2,
+    "difficulty": "B",
+    "isEnabled": true,
     "explanation": "胆汁自体に消化酵素は含まれていません。胆汁酸が脂質を乳化（細かく）することで、酵素（リパーゼ）の働きを助けます。",
     "subject": "body_structure"
   },
@@ -334,6 +384,8 @@
       "白血球の数は、体内に細菌が入っても増えることはない。"
     ],
     "correctIndex": 2,
+    "difficulty": "A",
+    "isEnabled": true,
     "explanation": "白血球は免疫を担い、細菌感染時などに数が増えます。また、アメーバ状に形を変えて血管外へ出て、組織内の異物を攻撃することもあります。",
     "subject": "body_structure"
   },
@@ -347,6 +399,8 @@
       "二酸化炭素の排出"
     ],
     "correctIndex": 1,
+    "difficulty": "A",
+    "isEnabled": true,
     "explanation": "血小板は、血管が損傷した際に集まって粘着し、血液を固めて止血する重要な役割を担います。",
     "subject": "body_structure"
   },
@@ -360,6 +414,8 @@
       "リンパ液は、赤血球を多く含むため、赤い色をしている。"
     ],
     "correctIndex": 1,
+    "difficulty": "B",
+    "isEnabled": true,
     "explanation": "リンパ系は循環系の一部ですが、心臓のようなポンプはなく、ゆっくりと流れます。リンパ節で免疫反応が起こります。リンパ液は無色透明に近い液体です。",
     "subject": "body_structure"
   },
@@ -373,6 +429,8 @@
       "心臓のポンプ機能が停止しても、生命に別状はない。"
     ],
     "correctIndex": 1,
+    "difficulty": "A",
+    "isEnabled": true,
     "explanation": "心臓は刺激伝導系により自律的に拍動します。成人の安静時心拍数は60〜100回/分程度が標準です。",
     "subject": "body_structure"
   },
@@ -386,6 +444,8 @@
       "腎臓で一度作られた尿の成分は、その後二度と変化することはない。"
     ],
     "correctIndex": 3,
+    "difficulty": "B",
+    "isEnabled": true,
     "explanation": "糸球体でろ過された原尿のうち、99%以上が尿細管で再吸収され、血液に戻ります。最終的に残ったものが尿となります。",
     "subject": "body_structure"
   },
@@ -399,6 +459,8 @@
       "副鼻腔に膿がたまる病態を、アレルギー性鼻炎という。"
     ],
     "correctIndex": 0,
+    "difficulty": "B",
+    "isEnabled": true,
     "explanation": "副鼻腔は鼻腔に隣接する空洞です。ここに炎症が起き膿がたまるのが蓄膿症（副鼻腔炎）です。",
     "subject": "sensory_organs"
   },
@@ -412,6 +474,8 @@
       "風味（おいしさ）は、味覚だけでなく、嗅覚や視覚、食感なども関わっている。"
     ],
     "correctIndex": 1,
+    "difficulty": "B",
+    "isEnabled": true,
     "explanation": "味覚は亜鉛不足や加齢、薬の副作用などによって低下（味覚障害）することがあります。",
     "subject": "sensory_organs"
   },
@@ -425,6 +489,8 @@
       "体性神経系には、交感神経と副交感神経が含まれる。"
     ],
     "correctIndex": 2,
+    "difficulty": "A",
+    "isEnabled": true,
     "explanation": "脳・脊髄が「中枢」、そこから出るのが「末梢」です。末梢は「体性（運動・知覚）」と「自律（交感・副交感）」に分かれます。",
     "subject": "nervous_system"
   },
@@ -438,6 +504,8 @@
       "嚥下（飲み込み）の反射"
     ],
     "correctIndex": 2,
+    "difficulty": "B",
+    "isEnabled": true,
     "explanation": "言語や思考などの高次機能は「大脳」が担当します。延髄は生命維持に直結する反射や自律神経の中枢です。",
     "subject": "nervous_system"
   },
@@ -451,6 +519,8 @@
       "脳にはどのような薬の成分も自由に入ることができる。"
     ],
     "correctIndex": 1,
+    "difficulty": "B",
+    "isEnabled": true,
     "explanation": "血液中では薬はタンパク結合型と遊離型で存在します。作用を発揮するのは「遊離型」のみです。脳には血液脳関門があるため、通れる物質は限られます。",
     "subject": "pharmacokinetics"
   },
@@ -464,6 +534,8 @@
       "代謝に関わる酵素の働きは、遺伝や年齢による個人差はない。"
     ],
     "correctIndex": 1,
+    "difficulty": "A",
+    "isEnabled": true,
     "explanation": "肝臓の酵素（CYPなど）により代謝され、体外へ出しやすい形になります。酵素の働きには個人差があり、これが効き目の違いにつながります。",
     "subject": "pharmacokinetics"
   },
@@ -477,6 +549,8 @@
       "一度尿中にろ過された薬の成分が、再び血液中に吸収されることはない。"
     ],
     "correctIndex": 3,
+    "difficulty": "B",
+    "isEnabled": true,
     "explanation": "尿細管において、一部の薬の成分は再吸収され、再び血液中へ戻ることがあります。",
     "subject": "pharmacokinetics"
   },
@@ -490,6 +564,8 @@
       "発症しても、そのまま服用を続けていれば自然に治る。"
     ],
     "correctIndex": 1,
+    "difficulty": "B",
+    "isEnabled": true,
     "explanation": "無菌性髄膜炎は感染症ではない髄膜炎です。全身性エリテマトーデス等の基礎疾患がある人で発症しやすい傾向がありますが、健康な人でも起こりえます。",
     "subject": "adverse_reactions"
   },
@@ -497,12 +573,14 @@
     "id": "bf_039",
     "text": "「無顆粒球症」に関する記述として、正しいものはどれか。",
     "options": [
-      "白血球の一種である顆粒球が著しく減少し、感染症にかかりやすくなる。",
+      "白血球の一種である顆粒球が著しく減減少、感染症にかかりやすくなる。",
       "血液中の赤血球が急増し、血流が滞る病態である。",
       "初期症状として、のどの痛み、高熱、口内炎などが現れることがある。",
       "「1」と「3」の両方が正しい。"
     ],
     "correctIndex": 3,
+    "difficulty": "C",
+    "isEnabled": true,
     "explanation": "無顆粒球症は免疫低下を招き、重篤な感染症の原因となります。のどの痛みなどの初期症状を見逃さないことが重要です。",
     "subject": "adverse_reactions"
   },
@@ -516,6 +594,8 @@
       "「1」と「3」の両方が正しい。"
     ],
     "correctIndex": 3,
+    "difficulty": "C",
+    "isEnabled": true,
     "explanation": "イレウスは腸の内容物が詰まる状態です。抗コリン薬などの副作用で腸の運動が抑制されると起こることがあります。",
     "subject": "adverse_reactions"
   },
@@ -529,6 +609,8 @@
       "重症化すると、透析治療が必要になる場合もある。"
     ],
     "correctIndex": 2,
+    "difficulty": "B",
+    "isEnabled": true,
     "explanation": "もともと腎機能が低下している人は、薬の排泄が遅れ、副作用がより起こりやすく、重症化しやすいです。",
     "subject": "adverse_reactions"
   },
@@ -542,6 +624,8 @@
       "視力の急激な低下"
     ],
     "correctIndex": 3,
+    "difficulty": "B",
+    "isEnabled": true,
     "explanation": "横紋筋融解症は筋肉細胞が壊れる病態です。壊れた筋肉成分（ミオグロビン）が尿に出るため、赤褐色の尿が出ます。視力低下は主な症状ではありません。",
     "subject": "adverse_reactions"
   },
@@ -555,6 +639,8 @@
       "乳酸菌製剤"
     ],
     "correctIndex": 0,
+    "difficulty": "B",
+    "isEnabled": true,
     "explanation": "これらの成分は膀胱の収縮を抑えたり尿道の筋肉を締めたりする働きがあるため、特に前立腺肥大のある人などで排尿困難を招きやすいです。",
     "subject": "adverse_reactions"
   },
@@ -568,6 +654,8 @@
       "網膜剥離"
     ],
     "correctIndex": 1,
+    "difficulty": "B",
+    "isEnabled": true,
     "explanation": "抗コリン成分などは眼圧を上昇させる恐れがあるため、緑内障の人（特に閉塞隅角緑内障）は使用に注意が必要です。",
     "subject": "adverse_reactions"
   },
@@ -581,6 +669,8 @@
       "ビタミンCは骨の形成に全く関与しない。"
     ],
     "correctIndex": 2,
+    "difficulty": "B",
+    "isEnabled": true,
     "explanation": "骨は常に壊す（吸収）と作る（形成）を繰り返して新しくなっています。ビタミンDなどがこの過程に重要です。",
     "subject": "body_structure"
   },
@@ -594,6 +684,8 @@
       "食道での消化は、主にタンパク質に対して行われる。"
     ],
     "correctIndex": 1,
+    "difficulty": "B",
+    "isEnabled": true,
     "explanation": "食道は気管の「後面」にあります。喉頭蓋が蓋をすることで誤嚥を防ぎます。食道自体には消化機能はありません。",
     "subject": "body_structure"
   },
@@ -607,6 +699,8 @@
       "塩分の摂りすぎは、血圧を上げる要因の一つとなる。"
     ],
     "correctIndex": 2,
+    "difficulty": "A",
+    "isEnabled": true,
     "explanation": "血圧は運動、睡眠、ストレス、食事、気温などによって常に変動しています。",
     "subject": "body_structure"
   },
@@ -620,6 +714,8 @@
       "水分 ― 全成分の10%程度"
     ],
     "correctIndex": 0,
+    "difficulty": "B",
+    "isEnabled": true,
     "explanation": "血漿の約90%は水分です。アルブミンは運搬等を担い、免疫グロブリンは免疫、フィブリノゲンは凝固を担います。",
     "subject": "body_structure"
   },
@@ -629,10 +725,12 @@
     "options": [
       "膀胱には、尿を溜める機能はあるが、尿意を感じる神経はない。",
       "尿が一定量たまると、脳に信号が送られて尿意を感じる。",
-      "膀胱から外へ尿を導く管を、尿管という。",
+      "膀胱から外へ尿を導く管を、尿道という。",
       "膀胱壁の筋肉は、常に収縮した状態である。"
     ],
     "correctIndex": 1,
+    "difficulty": "A",
+    "isEnabled": true,
     "explanation": "尿が溜まると膀胱壁の伸びを感知して尿意が起こります。外へ導くのは「尿道」です。",
     "subject": "body_structure"
   },
@@ -646,6 +744,8 @@
       "皮下脂肪層"
     ],
     "correctIndex": 3,
+    "difficulty": "B",
+    "isEnabled": true,
     "explanation": "脳や脊髄は骨、髄膜、脳脊髄液によって厳重に守られています。皮下脂肪は体表面の保護や断熱です。",
     "subject": "nervous_system"
   },
@@ -659,6 +759,8 @@
       "血圧が低下する。"
     ],
     "correctIndex": 1,
+    "difficulty": "A",
+    "isEnabled": true,
     "explanation": "交感神経は「戦う・逃げる」時の反応です。より多くの酸素を取り込むために気管支が広がり、瞳孔も拡大します。消化などは後回しにされます。",
     "subject": "nervous_system"
   },
@@ -672,6 +774,8 @@
       "汗の分泌促進"
     ],
     "correctIndex": 2,
+    "difficulty": "A",
+    "isEnabled": true,
     "explanation": "副交感神経はリラックス時です。心拍は低下し、排泄などの機能が活発になります。",
     "subject": "nervous_system"
   },
@@ -685,6 +789,8 @@
       "カプセル剤"
     ],
     "correctIndex": 1,
+    "difficulty": "B",
+    "isEnabled": true,
     "explanation": "液剤は既に成分が溶けているため、崩壊や溶解の手間がなく、最も速やかに吸収され始めます。",
     "subject": "pharmacokinetics"
   },
@@ -698,6 +804,8 @@
       "痔などの局所作用を目的としたもののみが存在する。"
     ],
     "correctIndex": 2,
+    "difficulty": "B",
+    "isEnabled": true,
     "explanation": "坐剤は直腸から吸収され、一部は肝臓を通らずに全身へ回るため、初回通過効果を避けることができます。解熱剤などの全身作用目的のものもあります。",
     "subject": "pharmacokinetics"
   },
@@ -711,6 +819,8 @@
       "食欲不振"
     ],
     "correctIndex": 1,
+    "difficulty": "A",
+    "isEnabled": true,
     "explanation": "抗ヒスタミン薬は脳の中枢に入ると、ヒスタミンの覚醒作用を抑えてしまうため、強い眠気が起こることが多いです。",
     "subject": "adverse_reactions"
   },
@@ -724,6 +834,8 @@
       "「1」〜「3」すべて正しい。"
     ],
     "correctIndex": 3,
+    "difficulty": "B",
+    "isEnabled": true,
     "explanation": "めまいは薬による直接的な神経系への影響として起こることがあります。",
     "subject": "adverse_reactions"
   },
@@ -737,6 +849,8 @@
       "「1」〜「3」すべて正しい。"
     ],
     "correctIndex": 3,
+    "difficulty": "B",
+    "isEnabled": true,
     "explanation": "プロスタグランジンの生成を抑える薬（解熱鎮痛薬等）は、胃粘膜保護機能も下げてしまうため、潰瘍の原因になります。",
     "subject": "adverse_reactions"
   },
@@ -750,6 +864,8 @@
       "以前に使って大丈夫だった薬でも、体質や体調の変化で薬疹が出ることがある。"
     ],
     "correctIndex": 2,
+    "difficulty": "A",
+    "isEnabled": true,
     "explanation": "発疹が出た場合は、アレルギー反応の可能性があるため、直ちに服用を中止する必要があります。無視して続けると重症化する危険があります。",
     "subject": "adverse_reactions"
   },
@@ -763,6 +879,8 @@
       "飛蚊症"
     ],
     "correctIndex": 0,
+    "difficulty": "B",
+    "isEnabled": true,
     "explanation": "抗コリン成分等によりピント調節が麻痺したり瞳孔が開いたりすると、霞んで見えたり（霧視）、異常に眩しく感じたり（異常羞明）します。",
     "subject": "adverse_reactions"
   },
@@ -776,6 +894,8 @@
       "厚さは全身どこでも全く同じである。"
     ],
     "correctIndex": 1,
+    "difficulty": "B",
+    "isEnabled": true,
     "explanation": "表皮の下にあるのが真皮です。毛細血管、感覚受容器、汗腺、皮脂腺などがあり、皮膚の本体ともいえる部分です。",
     "subject": "body_structure"
   }
